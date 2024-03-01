@@ -1,0 +1,20 @@
+HTML (HyperText Markup Language)DOCTYPE e html tags: As linhas servem para definir o documento e o interior do HTML.
+ Head Section: Contém metadados, como a codificação de sinais e o título do site.
+ Style Section: Contém regras e tipo de CSS para customizar a página.<!DOCTYPE html>
+<html lang="en">
+<head>
+          
+             Metadados e regras de estilo 
+head
+body
+    Corpo da página HTML 
+body
+html CSS (Cascading Style Sheets)Estilos Gerais: Define a aparência da página, como fonte, cores de fundo e cores das letras.
+
+Estilos do Contêiner da Calculadora: Especifica a forma da calculadora, como cor de fundo, sombra e bordas.
+Estilos dos Botões e Visor: Define o design dos botões, do visor e suas características, como cores e tamanhos.
+JavaScript Variáveis e Funções: Declaração de diversos para o tela e funções para utilizar os botões e realizar cálculos.
+Event Listeners: Adiciona reações aos toques para os botões respondendo aos cliques do utilizador.
+Toggle Dark Mode: Varia entre o modo claro e escuro, ajustando os tipos de estilo e o texto do botão.
+ Interatividade Botões: Cada botão tem uma função específica, como adicionar números, sinais operadores ou fazer cálculos.
+Calculadora: Uma tela de entrada onde estarão os números e operadores aparecem, e os resultados dos cálculos são mostrados, caso seja a ação de quem utiliza.
